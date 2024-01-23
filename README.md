@@ -9,5 +9,5 @@ This program monitors posts made to a specified Subreddit.  To run the program, 
 		<li>Check Identity and Read</li>
 	</ol>
 	<li>Submit the page.  On the next page, click Allow.  The next page will give you the refresh token and the access token.</li>
-	<li>Use the refresh token to run EMMonitor, e.g.:  EMMonitor -r <Refresh Token> -s <Subreddit></li>
+	<li>Use the refresh token to run EMMonitor, e.g.:  EMMonitor -r &ltRefresh Token&gt -s &ltSubreddit&gt</li>
 </ol>
