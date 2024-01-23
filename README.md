@@ -1,4 +1,7 @@
 This program monitors posts made to a specified Subreddit.  To run the program, you must first get a refresh token by using the following steps:
+<ul>
+	<li>Go to:  <a href="https://not-an-aardvark.github.io/reddit-oauth-helper">https://not-an-aardvark.github.io/reddit-oauth-helper</a></li>
+</ul>
 	1. Go to:  https://not-an-aardvark.github.io/reddit-oauth-helper
 	2. Enter:
 		a. Client ID:  RkYzlFkkHHdWBOP0ku5vDA
