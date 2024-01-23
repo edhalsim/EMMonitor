@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EMMonitor": {
+      "commandName": "Project",
+      "commandLineArgs": "-r 2170945823598-GYS0kJ82RkTg4zXR9v707v9-BDBhuw -s askreddit"
+    }
+  }
+}
